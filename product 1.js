@@ -1,22 +1,22 @@
 //start of Background image changer
 function background1(){
-    document.querySelector('#bg-pics').style.background = "url('Imgs/S531fdf32429746a89825350698e962f0F.jpg') center center / cover";
+    document.querySelector('#bg-pics').style.background = "url('./assets/S531fdf32429746a89825350698e962f0F.jpg') center center / cover";
 }
 
 function background2(){
-    document.querySelector('#bg-pics').style.background = "url('Imgs/Sa126872dedea429491c143484ca73d861.jpg') center center / cover";
+    document.querySelector('#bg-pics').style.background = "url('./assets/Sa126872dedea429491c143484ca73d861.jpg') center center / cover";
 }
 
 function background3(){
-    document.querySelector('#bg-pics').style.background = "url('Imgs/big 2.webp') center center / cover";
+    document.querySelector('#bg-pics').style.background = "url('./assets/big 2.webp') center center / cover";
 }
 
 function background4() {
-    document.querySelector('#bg-pics').style.background = "url('Imgs/S8ef4591808484adc9b466082082e408ay (1).jpg') center center / cover";
+    document.querySelector('#bg-pics').style.background = "url('./assets/S8ef4591808484adc9b466082082e408ay (1).jpg') center center / cover";
 }
 
 function background5() {
-    document.querySelector("#bg-pics").style.background = "url('Imgs/S4bae5ea5548b4dc59ad9a50a598f1af5L.jpg') center center / cover";
+    document.querySelector("#bg-pics").style.background = "url('./assets/S4bae5ea5548b4dc59ad9a50a598f1af5L.jpg') center center / cover";
 }
 //end of backgroung img changer
 
