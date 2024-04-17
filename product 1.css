@@ -204,7 +204,7 @@ header {
     /* box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px; */
     width: 100%;
     border-radius: 9px;
-    background: url(../Imgs/S531fdf32429746a89825350698e962f0F.jpg)no-repeat;
+    background: url(./assets/S531fdf32429746a89825350698e962f0F.jpg)no-repeat;
     height: 400px;
     background-position: center;
     background-size: cover;
@@ -253,7 +253,7 @@ header {
 }
 
 .bk-content1 {
-    background: url("../Imgs/750x72.png_.webp");
+    background: url(./assets/750x72.png_.webp);
     width: 100%;
     height: 47px;
     border-radius: 7px;
